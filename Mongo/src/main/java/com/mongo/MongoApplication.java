@@ -40,4 +40,11 @@ public class MongoApplication implements CommandLineRunner {
         System.out.println("Prva iymena");
     }
 
+    
+    public void uradi(){
+        
+        System.out.println("Jebem ti mater ludace");
+        
+    }
+    
 }
