@@ -38,6 +38,15 @@ public class MongoApplication implements CommandLineRunner {
       Teren ternen=new Teren(2, "Teren B", "Sljaka");
       terenDao.save(ternen);
         System.out.println("Prva iymena");
+        System.out.println("Ovo je iymena0");
+        System.out.println("Ovo je izmena 2");
     }
 
+    
+    public void uradi(){
+        
+        System.out.println("Jebem ti mater ludace");
+        
+    }
+    
 }
